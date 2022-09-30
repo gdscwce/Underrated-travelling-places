@@ -63,5 +63,15 @@
         "famousFor":"Landscapes,seashore",
         "fascinatingFact":"The water is so blue that blue seems to be dull",
         "howToReach":"https://www.beautifulpuglia.com/how-to-get-to-puglia/"   
+    },
+    {"id":7,
+        "place":"puglia",
+        "country":"italy",
+        "photo":"https://i.guim.co.uk/img/media/53449f7d9e1d621a03c5078e20d3505e9e28c50d/0_0_4302_2582/master/4302.jpg?width=1300&quality=45&dpr=2&s=none",
+        "Language":["Italian,English"],
+        "famousFor":"Landscapes,seashore",
+        "fascinatingFact":"The water is so blue that blue seems to be dull",
+        "howToReach":"https://www.beautifulpuglia.com/how-to-get-to-puglia/"   
     }
+    
 ]
