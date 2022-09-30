@@ -443,5 +443,15 @@
         "fascinatingFact":"beautiful views",
         "howToReach":" https://www.google.com/maps/place/Seven+Sisters+Hill,+Perjagadh/@20.5095625,79.5749988,17z/data=!3m1!4b1!4m5!3m4!1s0x3a2cba11352d8159:0x9cfded984f9e7bb6!8m2!3d20.5095625!4d79.5771875 "   
     }
+{
+        "id":40,
+        "place":"Andaman Nicobar Islands ",
+        "country":"India",
+        "photo":"https://www.andamantourism.gov.in/",
+        "Language":["Hindi"],
+        "famousFor":"Group of islands,Underwater diving",
+        "fascinatingFact":"This is a beautiful and laid-back place in the south side of India which is known to be a home to a unique tribal group and also for different kinds of fishes.",
+        "howToReach":"https://www.yatra.com/india-tourism/andaman-island/how-to-reach#:~:text=Being%20an%20island%2C%20Andaman%20is,airlines%20offer%20their%20services%20here."
+    },
 
 ]
