@@ -258,8 +258,6 @@
         "famousFor":"Beloved for its romantic architecture, colorful history and ethereal, sphagnum-draped trees, the city is fast adding hotel rooms to accommodate a swell of visitors",
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
-
-
     },
      {
         "id":48,
@@ -280,7 +278,6 @@
         "famousFor":"beautiful valleys, lush green valleys, rich tribal culture",
         "fascinatingFact":"Ziro is a town and the district headquarters of the Lower Subansiri district in the Indian state of Arunachal Pradesh. It is included the Tentative List for UNESCO's World Heritage Site for the Apatani cultural landscape.",
         "howToReach":"https://www.google.com/maps/search/ziro+valley+arunachal+pradesh/@27.5631904,93.8194242,12z/data=!3m1!4b1"
-
     },
  {
         "id":19,
@@ -393,6 +390,7 @@
         "fascinatingFact":"land of 5 mirages",
         "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
     },
+
 {
         "id":24,
         "place":"Jaysingpur",
@@ -415,6 +413,7 @@
         "howToReach":"https://www.india.com/travel/articles/how-to-reach-sandhan-valley-in-maharashtra-by-road-train-and-flight-3229808/"   
 
     },
+
     {
         "id":18,
         "place":" Jaipur ",
@@ -425,7 +424,6 @@
         "fascinatingFact":"home to all the modern amenities with some of the most exotic hotels and resorts in the world.",
         "howToReach":" https://goo.gl/maps/U7JCux6wMbF9pB3p8"
     },
-
     {
         "id":26,
         "place":"kolhapur ",
@@ -471,16 +469,6 @@
         "photo":" data:image/jpeg;base64,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 ",
         "fascinatingFact":"Being a very clean beach, you can also play football which is really an amazing experience.",
         "howToReach":" https://www.google.com/maps/place/Malvan,+Maharashtra+416606/@16.0618963,73.4745025,14z/data=!3m1!4b1!4m5!3m4!1s0x3bc01d5bb3176f0d:0x7400dce0b3eaa2aa!8m2!3d16.0630693!4d73.471054"
-
-    },
-  {
-        "id":26,
-        "place":" Tarkarli ",
-        "country":"India",
-        "photo":" https://travel-blog.happyeasygo.com/wp-content/uploads/2019/02/Tarkarli-Maharashtra.jpg ",
-        "fascinatingFact":"The pristine white-sand beaches of Tarkarli village are a treat for the senses",
-        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
-
 
          },
     {
@@ -878,19 +866,17 @@
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":"https://mathura.nic.in/how-to-reach/"
 
+
     },
 
-{
-        "id":1,
-        "place":" Faroe Islands ",
-        "country":"Faroe Islands",
-        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
-        "Language":["Faroese , English, Danish"],
-        "famousFor":"Bird Watching, Hiking, Pinterest-worthy waterfalls, Unrivaled natural beauty:*",
-        "fascinatingFact":"Buses are free to use in the capital",
-        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
-    },
-
+    {"id":54,
+        "place":"Sindhudurg Fort",
+        "country":"India",
+        "photo":"https://www.mtdc.co.in/forts/sindhudurg-fort/",
+        "Language":["Marathi"],
+        "famousFor":"Fort",
+        "fascinatingFact":"Sindhudurga was built by Chhatrapati Shivaji Maharaj, the founder of the Maratha Empire. ",
+        "howToReach":"https://www.google.com/maps/search/sindhudurg+fort/@16.0423076,73.4572049,17z/data=!3m1!4b1?hl=en"   
+}
 
 ]
-
