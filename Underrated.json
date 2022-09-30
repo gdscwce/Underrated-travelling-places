@@ -204,6 +204,7 @@
         "fascinatingFact":"a huge crater lake renowned for its bright-blue color and surrounding forests",
         "howToReach":"https://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105054884937303084940.000484a2122598d1532db&ll=40.721242,141.031494&spn=0.291426,0.808868&z=10&output=embed"
     },
+
     {
        "id":17 ,
         "place":"Mahabaleshwar",
@@ -215,7 +216,6 @@
         "howToReach":"https://www.google.com/maps?q=mahabaleshwar&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiO_6Wsj736AhW76jgGHbIhA08Q_AUoAnoECAEQBA"
     },
 
-    
         {
        "id":17 ,
         "place":"Naneghat",
@@ -227,8 +227,9 @@
         "howToReach":"https://en.wikipedia.org/wiki/Naneghat"
 
     },
+
      {
-       "id":18 ,
+       "id":18,
         "place":"Dandoba",
         "country":"India",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCg6kXWLzy_M&psig=AOvVaw0zD5RWsoVYMowOAt4LX7ia&ust=1664640966961000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjhi4T1vPoCFQAAAAAdAAAAABAD",
@@ -236,10 +237,8 @@
         "famousFor":"treking",
         "fascinatingFact":"temple at a huge height",
         "howToReach":"https://goo.gl/maps/bbNPsLPZJmtmr3SK9"
-
         },
-{
-
+    {
        "id":19,
         "place":"Bhilawadi Station",
         "country":"India",
@@ -250,8 +249,7 @@
         "howToReach":"https://www.google.com/maps?q=bhilawadi+railway+station&source=lmns&bih=760&biw=1536&rlz=1C1CHZN_enIN949IN949&hl=en&sa=X&ved=2ahUKEwiB3-TB-7z6AhUXj9gFHSEBAa4Q_AUoAXoECAEQAQ"
     },
 
-{
-
+    {
         "id":20,
         "place":" Savannah ",
         "country":"Georgia",
@@ -260,7 +258,14 @@
         "famousFor":"Beloved for its romantic architecture, colorful history and ethereal, sphagnum-draped trees, the city is fast adding hotel rooms to accommodate a swell of visitors",
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
-
+    },
+     {
+        "id":48,
+        "place":" Faroe Islands ",
+        "country":"Faroe Islands",
+        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
+        "fascinatingFact":"Buses are free to use in the capital",
+        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
 
     },
 
@@ -304,10 +309,20 @@
         "famousFor":"one of the best places for an insight into the rich tribal culture of the state.",
         "fascinatingFact":"The historical monuments and monoliths found near this unique travel destination will keep you busy during your getaway to this medley of culture and nature",
         "howToReach":"https://www.google.com/maps/place/Champhai,+Mizoram+796321/@23.4731343,93.3013776,13z/data=!3m1!4b1!4m5!3m4!1s0x374c5b8df9d456ff:0x1a0f1e708745dd80!8m2!3d23.4565708!4d93.3281929"
-    }
+    },
+
 
 {
-
+     "id":18,
+        "place":" Khidrapur ",
+        "country":"India",
+        "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.ttravelog.com%2Farticle%2Fimages%2FFB_IMG_1641269641745.jpg&imgrefurl=https%3A%2F%2Fttravelog.com%2Farticles%2Famazing-shri-kopeshwar-temple-khidrapur-cave-kolhapur-district-maharashtra_Bw5.html&tbnid=ulaLRg5u2ErmNM&vet=12ahUKEwjFlf_aib36AhVxidgFHW-QABQQMygDegUIARD0AQ..i&docid=zRgd5zrLHhH1JM&w=765&h=941&q=khidrapur&ved=2ahUKEwjFlf_aib36AhVxidgFHW-QABQQMygDegUIARD0AQ",
+        "Language":["Marathi,hindi"],
+        "famousFor":"Lord Shiva Temple",
+        "fascinatingFact":"sculpyural art",
+        "howToReach":" https://www.google.com/maps/place/Khidrapur,+Maharashtra+416108/@16.6155901,74.6802521,16z/data=!3m1!4b1!4m5!3m4!1s0x3bc0dc00e56f298b:0xfac8eeb8b2e94db1!8m2!3d16.615046!4d74.685418"
+},
+{
 
      "id":21,
         "place":"Harvalem Waterfalls",
@@ -319,11 +334,9 @@
         "howToReach":"https://www.google.com/maps/place/Harvalem+Waterfalls/@15.5510768,74.024463,17z/data=!3m1!4b1!4m5!3m4!1s0x3bbfbd4c54c04655:0x623633fe068aab4b!8m2!3d15.5510768!4d74.0266517"
 },
 
-    
-
 
  {
-        "id":22,
+        "id":21,
         "place":" Goa ",
         "country":"India",
         "photo":"https://www.gettyimages.in/photos/goa-tourist ",
@@ -332,8 +345,19 @@
         "fascinatingFact":" Asia’s Only Naval Aviation Museum is at Goa",
         "howToReach":" https://www.google.com/maps/dir//Goa/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3bbfba106336b741:0xeaf887ff62f34092!3e0?sa=X&ved=2ahUKEwj8vaGmhL36AhXq-jgGHTHdDkAQ-A96BAhSEAw"
     },
+
+    {
+        "id":21,
+        "place":" El Nicho Waterfalls ",
+        "country":"Cuba",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_142578021_el-nicho-waterfalls-in-cuba-el-nicho-is-located-inside-the-gran-parque-natural-topes-de-collantes-a-.html&psig=AOvVaw0Yr9j-h99dp8L9OH7fAKSz&ust=1664642940732000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjQmKv8vPoCFQAAAAAdAAAAABAS",
+        "Language":["English, Spanish"],
+        "famousFor":"The waterfall is attractive and flows throughout the year, even during the dry season.",
+        "howToReach":"
+        },
     
-             {
+    {
+
         "id":23,
         "place":" navegao Band",
         "country":"india",
@@ -347,7 +371,6 @@
 
 {
         "id":24,
-
         "place":"Kaas Plateau",
         "country":"India",
         "photo":"https://www.kas.ind.in/creative/upload/kas%2028%20sept%204.png",
@@ -358,7 +381,7 @@
 
 },
       {
-        "id":25,
+        "id":23,
         "place":" Pokaran ",
         "country":"India",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPokhran&psig=AOvVaw2WZ6W3BYWRUfV-epQq9XvU&ust=1664645130167000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjuhMCEvfoCFQAAAAAdAAAAABAD ",
@@ -367,6 +390,30 @@
         "fascinatingFact":"land of 5 mirages",
         "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
     },
+
+{
+        "id":24,
+        "place":"Jaysingpur",
+        "country":"India",
+        "photo":"https://content.jdmagicbox.com/comp/kolhapur/u5/0231px231.x231.181113162412.y4u5/catalogue/siddhivinayak-temple-jaysingpur-kolhapur-8t8chz01ic.jpg?clr=463320",
+        "Language":["Marathi"],
+        "famousFor":"Aamba bhadang, Ganpati Temple",
+        "fascinatingFact":"Biggest Ganpati Temple in the shape of Octopus",
+        "howToReach":"https://goo.gl/maps/VdFkgyM7CrEWYRWj9"
+},
+    
+    {
+        "id":34,
+        "place":"Ahmednagar",
+        "country":"India",
+        "photo":"https://www.revv.co.in/blogs/wp-content/uploads/2021/06/Sandhan-Valley.jpg",
+        "Language":["Marathi,English,Hindi"],
+        "famousFor":"Rock Climbing,Hiking",
+        "fascinatingFact": "Sandhan valley, The Great Canyon in the Sahyadri ranges which is combination of a canyon and a valley. Located in the Ahmednagar district, India, near the famous fort Ratangad. Sandhan valley is undoubtedly The Valley of Shadows.",
+        "howToReach":"https://www.india.com/travel/articles/how-to-reach-sandhan-valley-in-maharashtra-by-road-train-and-flight-3229808/"   
+
+    },
+
     {
         "id":18,
         "place":" Jaipur ",
@@ -377,10 +424,6 @@
         "fascinatingFact":"home to all the modern amenities with some of the most exotic hotels and resorts in the world.",
         "howToReach":" https://goo.gl/maps/U7JCux6wMbF9pB3p8"
     },
-
-
-
-
     {
         "id":26,
         "place":"kolhapur ",
@@ -391,6 +434,18 @@
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
     },
+
+    {
+    "id"="27",
+    "place":"thoseghar",
+    "country":"India",
+    "photo":"https://www.google.com/search?q=thoseghar&sxsrf=ALiCzsZv0Csr0brDE6VrC_3Pd22JtfwdgA:1664562579088&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjnl-7pkr36AhUZ6zgGHQbmD4gQ_AUoAnoECAIQBA&biw=1536&bih=718&dpr=1.25",
+    "Language":["Marathi"],
+    "famousFor":"The waterfall is situated at 4-5km away from Satara",
+     "fascinatingFact":"Water Fall",
+     "how to reach":"https://en.wikipedia.org/wiki/Thoseghar_Waterfalls"
+},
+
          {
         "id":27,
         "place":" Faroe Islands ",
@@ -398,6 +453,22 @@
         "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
+    },
+         {
+        "id":26,
+        "place":" Dudhsagar Waterfalls ",
+        "country":"India",
+        "photo":"https://in.images.search.yahoo.com/images/view;_ylt=Awr1Tjo5NDdj8z8kfYC9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzY2NTBmYTE1MDY5NGY0ZmRjMGJhZjViMDkxOWMyMDIwBGdwb3MDMwRpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Ddudhsagar%2Bfalls%26type%3DE211IN826G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D3&w=1080&h=1080&imgurl=i0.wp.com%2Fwww.extrachai.com%2Fwp-content%2Fuploads%2F2018%2F03%2FDudhsagar.jpg%3Ffit%3D1080%252C1080%26ssl%3D1&rurl=https%3A%2F%2Fwww.thrillophilia.com%2Fattractions%2Fdudhsagar-falls-goa&size=198.9KB&p=dudhsagar+falls&oid=6650fa150694f4fdc0baf5b0919c2020&fr2=piv-web&fr=mcafee&tt=Dudhsagar+Falls%2C+South+Goa%3A+How+To+Reach%2C+Best+Time+%26+Tips&b=0&ni=21&no=3&ts=&tab=organic&sigr=csnwex1sc7.s&sigb=hRu6qRJOj5p7&sigi=gcw7c_d97Zqu&sigt=XV65uejsftWW&.crumb=aINS38KqkAG&fr=mcafee&fr2=piv-web&type=E211IN826G0 ",
+        "fascinatingFact":"In rainy season it is very beautiful. Falling water seems to be milk that is why its name is Dudhsagar.",
+        "howToReach":" https://www.google.com/maps/place/Dudhsagar+Falls/@15.3144375,74.3121186,17z/data=!3m1!4b1!4m5!3m4!1s0x3bbfa618142b8b43:0xfd9448e7283b0225!8m2!3d15.3144375!4d74.3143073"
+    },
+    {
+        "id":26,
+        "place":"Malvan",
+        "country":"India",
+        "photo":" data:image/jpeg;base64,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 ",
+        "fascinatingFact":"Being a very clean beach, you can also play football which is really an amazing experience.",
+        "howToReach":" https://www.google.com/maps/place/Malvan,+Maharashtra+416606/@16.0618963,73.4745025,14z/data=!3m1!4b1!4m5!3m4!1s0x3bc01d5bb3176f0d:0x7400dce0b3eaa2aa!8m2!3d16.0630693!4d73.471054"
 
          },
     {
@@ -420,6 +491,17 @@
         "famousFor":"Lord Shiva Temple",
         "fascinatingFact":"sculpyural art",
         "howToReach":" https://www.google.com/maps/place/Khidrapur,+Maharashtra+416108/@16.6155901,74.6802521,16z/data=!3m1!4b1!4m5!3m4!1s0x3bc0dc00e56f298b:0xfac8eeb8b2e94db1!8m2!3d16.615046!4d74.685418"
+
+},
+    {
+        "id":30,
+        "place":" niagara falls ",
+        "country":"northen america",
+        "photo":"https://torontocoachbus.files.wordpress.com/2014/11/new-york-niagara-falls-state-park.jpg",
+        "Language":["English,"],
+        "famousFor"Niagara Falls is the world’s fastest-moving waterfall with Highest Flow Rate,Five Tightrope Walks Over Niagara Falls,Niagara Falls consists of three waterfalls",
+        "howToReach":"https://www.bing.com/maps?osid=412aa8c3-92ab-412a-a05a-490a8d13dcbe&cp=43.08479~-79.07033&lvl=15&imgid=d8646bf0-ba4d-4fee-ae0b-585a502708ef&v=2&sV=2&form=S00027"
+
 },
        {
         "id":30,
@@ -431,7 +513,27 @@
         "fascinatingFact":"land of 10 mirages",
         "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
     },
+    {
+        "id":25,
+        "place":" Perjagadh Seven Sisters Hills ",
+        "country":"India",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Perjagadh_Seven_Sisters_Hills_5.jpg/675px-Perjagadh_Seven_Sisters_Hills_5.jpg?20170617202658",
+        "Language":["Marathi, English, Hindi"],
+        "famousFor":"Morning and evening view",
+        "fascinatingFact":"House of 7 Sister(God)",
+        "howToReach":"https://www.google.com/maps/place/Seven+Sisters+Hill,+Perjagadh/@20.5095625,79.5771875,15z/data=!4m5!3m4!1s0x0:0x9cfded984f9e7bb6!8m2!3d20.5095625!4d79.5771875"
+    },
+    {
+       "id":25 ,
+        "place":"Kharghar",
+        "country":"India",
+        "photo":"https://en.wikipedia.org/wiki/File:Pandavkada.jpg",
+        "Language":["marathi"],
+        "famousFor":"nature",
+        "fascinatingFact":"Pandav Kada Kharghar",
+        "howToReach":"https://www.google.com/maps/place/Kharghar,+Navi+Mumbai,+Maharashtra/@19.0647798,73.0245929,13z/data=!3m1!4b1!4m5!3m4!1s0x3be7c21a53e30b83:0xa766b29f687709d7!8m2!3d19.0473216!4d73.0699046"   
 
+    },
 
 
     {
@@ -473,6 +575,36 @@
         "fascinatingFact":" scenic natural panoramas, huge mountains, ancient caves, temples and forts.",
         "howToReach":"https://www.india.com/travel/karjat/how-to-reach/"   
     },
+  {
+        "id":34,
+        "place":"Ellora Caves",
+        "country":"india",
+        "photo":"https://en.wikipedia.org/wiki/Ellora_Caves#/media/File:Ellora_Caves,_India,_Kailasanatha_Temple_2.jpg"
+        "Language":["India"],
+        "famousFor":" ancient Buddhist rock-cut architecture",
+        "fascinatingFact":"The Ajanta Caves constitute ancient monasteries and worship-halls of different Buddhist traditions carved into a 75-metre (246 ft) wall of rock",
+        "howToReach":" https://goo.gl/maps/ToYuLYSVXhgXhDZK8"
+},
+    {
+        "id":34,
+        "place":" Dhumnapur ",
+        "country":"india",
+        "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOkVXR1l7Cvt-4sIs25LVz5jGQoGi4AlLkyAPlE%3Ds1600-w400&imgrefurl=https%3A%2F%2Fyaharisnails.com%2Fen%2FIN%2Fshree-hanuman-mandir-dhumnapur-p1707010&tbnid=EUTJmp7LwjiFLM&vet=12ahUKEwikqJG1lr36AhUY7nMBHSCFDbUQMygCegQIARA1..i&docid=oT2WnX1d3DiXxM&w=400&h=300&q=dhumnapur&ved=2ahUKEwikqJG1lr36AhUY7nMBHSCFDbUQMygCegQIARA1"
+        "Language":["Marathi"],
+        "famousFor":"Old temple",
+        "fascinatingFact":"shivlinga",
+        "howToReach":"https://www.google.com/maps/dir/16.8541991,74.6048946/dhumnapur/@18.6578655,74.1143136,7z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bd3e5d7d8aee9f3:0xbfbf21d83f206f42!2m2!1d78.0748093!2d20.3959494?hl=en"
+    },
+{
+        "id":55,
+        "place":"Kanchanich Mahal",
+        "country":"India",
+        "photo":"https://d3pc1xvrcw35tl.cloudfront.net/images/240x180/kanchnicha-mahal-mehkar-buldhana_201907270344.jpg",
+        "Language":["Marathi, Hindi"],
+        "famousFor":"story , building",
+        "fascinatingFact":" a intresting story about kanchani",
+        "howToReach":"https://www.makemytrip.com/routeplanner/pune-mehkar.html"   
+    },
    {
         "id":34,
         "place":"Panhala fort",
@@ -483,6 +615,7 @@
         "fascinatingFact":"This Fort has first constructed in the year 1178 AD by Raja Bhoj II, the famous ruler of Shilahara, after which this fort was rebuilt in the year 1489 by Adil Shah I",
         "howToReach":"https://maharashtraplanet.com/hill-stations-in-maharashtra/panhala/how-to-reach/"
    },
+
     {
         "id":35,
         "place":" Tarkarli ",
@@ -494,15 +627,27 @@
         "howToReach":"https://www.google.com/maps?q=fact+about+tarkarli+map&sxsrf=ALiCzsY2Fm6DnXeCKbg0gOA-AQftCxWOTg:1664560361112&uact=5&gs_lp=Egdnd3Mtd2l6uAED-AEBMgcQIRigARgKMgcQIRigARgKwgIKEAAYRxjWBBiwA8ICCBAAGB4YDRgFwgIFEAAYhgOQBghI0g1QzQVYswtwAXgByAEAkAEAmAGyAaAB4wSqAQMwLjTiAwQgQRgA4gMEIEYYAIgGAQ&um=1&ie=UTF-8&sa=X&ved=2ahUKEwju9frair36AhWBHXAKHVi_CysQ_AUoA3oECAEQBQ"
     },
     {
-            "id":36,
-        "place":" panhala ",
-        "country":"india",
-        "photo":"https://images.app.goo.gl/bWJHbY2MpkoUyP5T8",
+        "id":37,
+        "place":"Pachdahra",
+        "country":"India",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcxvAL70mPTQ&psig=AOvVaw0Hc2S7EmtrUjHK3BQUDYNs&ust=1664650249812000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjpyPzhvfoCFQAAAAAdAAAAABAD",
         "Language":["Marathi"],
-        "famousFor":"beautiful valleys, lush green valleys, rich tribal culture,beautiful fort",
-        "fascinatingFact":"",
-        "howToReach":"https://maharashtraplanet.com/hill-stations-in-maharashtra/panhala/how-to-reach/"
+
+        "famousFor":"Waterfall",
+        "fascinatingFact":"they say experts stayed here",
+        "howToReach":"https://www.google.com/maps/place/Panchdhar,+Maharashtra+445304/@19.8813598,78.9073702,15z/data=!3m1!4b1!4m5!3m4!1s0x3bd2e40f4806f269:0xe2c024e86162e9ca!8m2!3d19.8835437!4d78.9160943?hl=en"   
     },
+     {
+            "id":37,
+        "place":"Dubai",
+        "country":"United Arab Emirates",
+        "photo":"data:image/jpeg;base64,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",
+        "Language":["arabic"],
+        "famousFor":"The World's tallest building. A living wonder.",
+        "fascinatingFact":"Tallest building of world",
+        "howToReach":"https://goo.gl/maps/E9mM1ndSKQhoWfHU9"
+    },
+
 {
     "id":18,
     "place":"Taj Mahal",
@@ -513,6 +658,7 @@
     "fascinatingFact":"seventh wonder in world",
     "howtoReach":"https://www.google.com/maps/place/Taj+Mahal/@27.1751448,78.0399535,17z/data=!3m1!4b1!4m5!3m4!1s0x39747121d702ff6d:0xdd2ae4803f767dde!8m2!3d27.1751448!4d78.0421422",
 },
+
 
         {
         "id":37,
@@ -546,7 +692,17 @@
         "fascinatingFact":"beautiful views",
         "howToReach":" https://www.google.com/maps/place/Seven+Sisters+Hill,+Perjagadh/@20.5095625,79.5749988,17z/data=!3m1!4b1!4m5!3m4!1s0x3a2cba11352d8159:0x9cfded984f9e7bb6!8m2!3d20.5095625!4d79.5771875 "   
     },
-    
+
+      {
+        "id":33,
+        "place":"Manali",
+        "country":"India",
+        "photo":" https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APerjagadh_Seven_Sisters_Hills_5.jpg&psig=AOvVaw2S5QLIW6onzeR7pnpEjDv2&ust=1664648821794000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPD15qaSvfoCFQAAAAAdAAAAABAD ",
+        "Language":["English"],
+        "famousFor":"Beautiful",
+        "fascinatingFact":"Mountains and rivers",
+        "howToReach":" https://www.google.com/maps/place/Seven+Sisters+Hill,+Perjagadh/@20.5095625,79.5749988,17z/data=!3m1!4b1!4m5!3m4!1s0x3a2cba11352d8159:0x9cfded984f9e7bb6!8m2!3d20.5095625!4d79.5771875 "   
+    },
           {
         "id":40,
         "place":" walchand college  ",
@@ -721,8 +877,6 @@
         "famousFor":"Fort",
         "fascinatingFact":"Sindhudurga was built by Chhatrapati Shivaji Maharaj, the founder of the Maratha Empire. ",
         "howToReach":"https://www.google.com/maps/search/sindhudurg+fort/@16.0423076,73.4572049,17z/data=!3m1!4b1?hl=en"   
-
-    },
-
+}
 
 ]
