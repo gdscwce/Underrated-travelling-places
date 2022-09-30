@@ -222,22 +222,16 @@
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
     },
-{
-     "id":21,
-        "place":"Harvalem Waterfalls",
-        "country":"India",
-        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.trawell.in%2Fgoa%2Fpanjim%2Farvalem-waterfalls&psig=AOvVaw2JWY17LCvRBsY5GEABpj82&ust=1664645164585000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiHutCEvfoCFQAAAAAdAAAAABAD ",
-        "Language":["English, Hindi,Marathi"],
-        "famousFor":"most famous waterfall in north goa",
-        "fascinatingFact":"well known scenic waterfall with a multi-level viewing area is large during monsoon season",
-        "howToReach":"https://www.google.com/maps/place/Harvalem+Waterfalls/@15.5510768,74.024463,17z/data=!3m1!4b1!4m5!3m4!1s0x3bbfbd4c54c04655:0x623633fe068aab4b!8m2!3d15.5510768!4d74.0266517"
-}
-
-    
-
-
+     {
+        "id":48,
+        "place":" Faroe Islands ",
+        "country":"Faroe Islands",
+        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
+        "fascinatingFact":"Buses are free to use in the capital",
+        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
+    },
  {
-        "id":22,
+        "id":21,
         "place":" Goa ",
         "country":"India",
         "photo":"https://www.gettyimages.in/photos/goa-tourist ",
@@ -248,7 +242,7 @@
     },
     
     {
-        "id":23,
+        "id":21,
         "place":" El Nicho Waterfalls ",
         "country":"Cuba",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_142578021_el-nicho-waterfalls-in-cuba-el-nicho-is-located-inside-the-gran-parque-natural-topes-de-collantes-a-.html&psig=AOvVaw0Yr9j-h99dp8L9OH7fAKSz&ust=1664642940732000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjQmKv8vPoCFQAAAAAdAAAAABAS",
@@ -258,7 +252,7 @@
     },
     
     {
-        "id":24,
+        "id":22,
         "place":"Kaas Plateau",
         "country":"India",
         "photo":"https://www.kas.ind.in/creative/upload/kas%2028%20sept%204.png",
@@ -268,7 +262,7 @@
         "howToReach":"https://www.india.com/travel/articles/pune-to-kaas-plateau-how-to-reach-kaas-plateau-from-pune-by-road-3239032/"   
 },
       {
-        "id":25,
+        "id":23,
         "place":" Pokaran ",
         "country":"India",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPokhran&psig=AOvVaw2WZ6W3BYWRUfV-epQq9XvU&ust=1664645130167000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjuhMCEvfoCFQAAAAAdAAAAABAD ",
@@ -277,23 +271,16 @@
         "fascinatingFact":"land of 5 mirages",
         "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
     },
-
-
-        "id":26,
-        "place":"kolhapur ",
-        "country":"india",
-        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
-        "Language":[" English, marathi,hindi"],
-        "famousFor":"Bird Watching, Hiking,forts,rankala lake,mesuem, Pinterest-worthy waterfalls, Unrivaled natural beauty:*",
-        "fascinatingFact":"Buses are free to use in the capital",
-        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
-    },
-         {
-        "id":27,
-        "place":" Faroe Islands ",
-        "country":"Faroe Islands",
-        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
-        "fascinatingFact":"Buses are free to use in the capital",
-        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
+   {
+        "id":24,
+        "place":"Dunhuang, Gansu",
+        "country":"China",
+        "photo":"https://cdn.britannica.com/65/104865-050-30A37ACB/Entrance-Dunhuang-Mogao-Caves-Gansu-China-province.jpg",
+        "Language":["Chinese"],
+        "famousFor":"Yueyaquan and Mogao Caves",
+        "fascinatingFact":"Thousand Buddha Grottoes",
+        "howToReach":"https://www.bing.com/maps?q=Dunhuang%2c+Gansu&FORM=HDRSC4"
     }
+
+
 ]
