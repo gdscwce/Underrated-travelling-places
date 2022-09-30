@@ -261,14 +261,6 @@
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
 
-    },
-     {
-        "id":48,
-        "place":" Faroe Islands ",
-        "country":"Faroe Islands",
-        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
-        "fascinatingFact":"Buses are free to use in the capital",
-        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
 
     },
 
@@ -281,7 +273,6 @@
         "famousFor":"beautiful valleys, lush green valleys, rich tribal culture",
         "fascinatingFact":"Ziro is a town and the district headquarters of the Lower Subansiri district in the Indian state of Arunachal Pradesh. It is included the Tentative List for UNESCO's World Heritage Site for the Apatani cultural landscape.",
         "howToReach":"https://www.google.com/maps/search/ziro+valley+arunachal+pradesh/@27.5631904,93.8194242,12z/data=!3m1!4b1"
-
     },
  {
         "id":19,
@@ -376,29 +367,6 @@
         "fascinatingFact":"land of 5 mirages",
         "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
     },
-{
-        "id":24,
-        "place":"Jaysingpur",
-        "country":"India",
-        "photo":"https://content.jdmagicbox.com/comp/kolhapur/u5/0231px231.x231.181113162412.y4u5/catalogue/siddhivinayak-temple-jaysingpur-kolhapur-8t8chz01ic.jpg?clr=463320",
-        "Language":["Marathi"],
-        "famousFor":"Aamba bhadang, Ganpati Temple",
-        "fascinatingFact":"Biggest Ganpati Temple in the shape of Octopus",
-        "howToReach":"https://goo.gl/maps/VdFkgyM7CrEWYRWj9"
-
-},
-    
-    {
-        "id":34,
-        "place":"Ahmednagar",
-        "country":"India",
-        "photo":"https://www.revv.co.in/blogs/wp-content/uploads/2021/06/Sandhan-Valley.jpg",
-        "Language":["Marathi,English,Hindi"],
-        "famousFor":"Rock Climbing,Hiking",
-        "fascinatingFact": "Sandhan valley, The Great Canyon in the Sahyadri ranges which is combination of a canyon and a valley. Located in the Ahmednagar district, India, near the famous fort Ratangad. Sandhan valley is undoubtedly The Valley of Shadows.",
-        "howToReach":"https://www.india.com/travel/articles/how-to-reach-sandhan-valley-in-maharashtra-by-road-train-and-flight-3229808/"   
-
-    },
     {
         "id":18,
         "place":" Jaipur ",
@@ -409,6 +377,8 @@
         "fascinatingFact":"home to all the modern amenities with some of the most exotic hotels and resorts in the world.",
         "howToReach":" https://goo.gl/maps/U7JCux6wMbF9pB3p8"
     },
+
+
 
 
     {
@@ -428,16 +398,6 @@
         "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
-
-    },
-  {
-        "id":26,
-        "place":" Tarkarli ",
-        "country":"India",
-        "photo":" https://travel-blog.happyeasygo.com/wp-content/uploads/2019/02/Tarkarli-Maharashtra.jpg ",
-        "fascinatingFact":"The pristine white-sand beaches of Tarkarli village are a treat for the senses",
-        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
-
 
          },
     {
@@ -750,20 +710,19 @@
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":"https://mathura.nic.in/how-to-reach/"
 
+
     },
 
-{
-        "id":1,
-        "place":" Faroe Islands ",
-        "country":"Faroe Islands",
-        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
-        "Language":["Faroese , English, Danish"],
-        "famousFor":"Bird Watching, Hiking, Pinterest-worthy waterfalls, Unrivaled natural beauty:*",
-        "fascinatingFact":"Buses are free to use in the capital",
-        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
-    },
+    {"id":54,
+        "place":"Sindhudurg Fort",
+        "country":"India",
+        "photo":"https://www.mtdc.co.in/forts/sindhudurg-fort/",
+        "Language":["Marathi"],
+        "famousFor":"Fort",
+        "fascinatingFact":"Sindhudurga was built by Chhatrapati Shivaji Maharaj, the founder of the Maratha Empire. ",
+        "howToReach":"https://www.google.com/maps/search/sindhudurg+fort/@16.0423076,73.4572049,17z/data=!3m1!4b1?hl=en"   
 
+    },
 
 
 ]
-
