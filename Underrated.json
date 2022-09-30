@@ -31,6 +31,17 @@
         "fascinatingFact":"Home of world's 5^th tallest building",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
     },
+    {
+        "id":26,
+        "place":"Dudh Sagar",
+        "country":"India",
+        "photo":" data:image/jpeg;base64,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",
+        "Language":["hindi"],
+        "famousFor":"Waterfall",
+        "fascinatingFact":"amongst India's tallest waterfalls with a height of 310 m (1017 feet)",
+        "howToReach":"By car or Train "   
+
+    },
 
     {
         "id":4,
@@ -223,21 +234,9 @@
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
     },
 
-     "id":21,
-        "place":"Harvalem Waterfalls",
-        "country":"India",
-        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.trawell.in%2Fgoa%2Fpanjim%2Farvalem-waterfalls&psig=AOvVaw2JWY17LCvRBsY5GEABpj82&ust=1664645164585000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiHutCEvfoCFQAAAAAdAAAAABAD ",
-        "Language":["English, Hindi,Marathi"],
-        "famousFor":"most famous waterfall in north goa",
-        "fascinatingFact":"well known scenic waterfall with a multi-level viewing area is large during monsoon season",
-        "howToReach":"https://www.google.com/maps/place/Harvalem+Waterfalls/@15.5510768,74.024463,17z/data=!3m1!4b1!4m5!3m4!1s0x3bbfbd4c54c04655:0x623633fe068aab4b!8m2!3d15.5510768!4d74.0266517"
-}
-
-    
-
 
  {
-        "id":22,
+        "id":21,
         "place":" Goa ",
         "country":"India",
         "photo":"https://www.gettyimages.in/photos/goa-tourist ",
@@ -248,7 +247,7 @@
     },
     
     {
-        "id":23,
+        "id":21,
         "place":" El Nicho Waterfalls ",
         "country":"Cuba",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_142578021_el-nicho-waterfalls-in-cuba-el-nicho-is-located-inside-the-gran-parque-natural-topes-de-collantes-a-.html&psig=AOvVaw0Yr9j-h99dp8L9OH7fAKSz&ust=1664642940732000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjQmKv8vPoCFQAAAAAdAAAAABAS",
@@ -258,7 +257,7 @@
     },
     
     {
-        "id":24,
+        "id":22,
         "place":"Kaas Plateau",
         "country":"India",
         "photo":"https://www.kas.ind.in/creative/upload/kas%2028%20sept%204.png",
@@ -268,7 +267,7 @@
         "howToReach":"https://www.india.com/travel/articles/pune-to-kaas-plateau-how-to-reach-kaas-plateau-from-pune-by-road-3239032/"   
 },
       {
-        "id":25,
+        "id":23,
         "place":" Pokaran ",
         "country":"India",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPokhran&psig=AOvVaw2WZ6W3BYWRUfV-epQq9XvU&ust=1664645130167000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjuhMCEvfoCFQAAAAAdAAAAABAD ",
@@ -279,7 +278,7 @@
     },
 
 
-        "id":26,
+        "id":24,
         "place":"kolhapur ",
         "country":"india",
         "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
@@ -288,16 +287,12 @@
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
     },
-    {
-    "id"="18",
-    "place":"Paleshwar",
-    "country":"India",
-    "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNQq-jxB67PQ-YRj0o4oWlibGVMyGA2O0olDr8o%3Dw296-h202-n-k-no-v1&imgrefurl=https%3A%2F%2Fwww.google.co.in%2Ftravel%2Fentity%2Fkey%2FChoI4d6D5qfsrpqFARoNL2cvMTFydDFyZmp4chAE&tbnid=err3qpl24J71-M&vet=12ahUKEwikhrHchb36AhU2ObcAHSL0CJ0QMygBegUIARC5AQ..i&docid=AekT0t6z3pMTGM&w=296&h=202&q=paleshwar&ved=2ahUKEwikhrHchb36AhU2ObcAHSL0CJ0QMygBegUIARC5AQ",
-    "Language":["Marathi"],
-    "famousFor":"The dam is situated at 45km away from Kolhapur",
-     "fascinatingFact":"Water Fall and Boating",
-     "how to reach":"https://www.google.com/maps/search/paleshwar/@16.8964562,73.8772799,15.48z"
-}
-
-
+         {
+        "id":25,
+        "place":" Faroe Islands ",
+        "country":"Faroe Islands",
+        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
+        "fascinatingFact":"Buses are free to use in the capital",
+        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
+    }
 ]
