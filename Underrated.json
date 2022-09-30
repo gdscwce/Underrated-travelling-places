@@ -588,6 +588,16 @@
         "fascinatingFact":" scenic natural panoramas, huge mountains, ancient caves, temples and forts.",
         "howToReach":"https://www.india.com/travel/karjat/how-to-reach/"   
     },
+  {
+        "id":34,
+        "place":"Ellora Caves",
+        "country":"india",
+        "photo":"https://en.wikipedia.org/wiki/Ellora_Caves#/media/File:Ellora_Caves,_India,_Kailasanatha_Temple_2.jpg"
+        "Language":["India"],
+        "famousFor":" ancient Buddhist rock-cut architecture",
+        "fascinatingFact":"The Ajanta Caves constitute ancient monasteries and worship-halls of different Buddhist traditions carved into a 75-metre (246 ft) wall of rock",
+        "howToReach":" https://goo.gl/maps/ToYuLYSVXhgXhDZK8"
+},
     {
         "id":34,
         "place":" Dhumnapur ",
@@ -618,6 +628,7 @@
         "fascinatingFact":"This Fort has first constructed in the year 1178 AD by Raja Bhoj II, the famous ruler of Shilahara, after which this fort was rebuilt in the year 1489 by Adil Shah I",
         "howToReach":"https://maharashtraplanet.com/hill-stations-in-maharashtra/panhala/how-to-reach/"
    },
+
     {
         "id":35,
         "place":" Tarkarli ",
