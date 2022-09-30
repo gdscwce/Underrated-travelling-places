@@ -442,6 +442,16 @@
         "famousFor":"Mountains",
         "fascinatingFact":"beautiful views",
         "howToReach":" https://www.google.com/maps/place/Seven+Sisters+Hill,+Perjagadh/@20.5095625,79.5749988,17z/data=!3m1!4b1!4m5!3m4!1s0x3a2cba11352d8159:0x9cfded984f9e7bb6!8m2!3d20.5095625!4d79.5771875 "   
+    },
+      {
+        "id":33,
+        "place":"Manali",
+        "country":"India",
+        "photo":" https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APerjagadh_Seven_Sisters_Hills_5.jpg&psig=AOvVaw2S5QLIW6onzeR7pnpEjDv2&ust=1664648821794000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPD15qaSvfoCFQAAAAAdAAAAABAD ",
+        "Language":["English"],
+        "famousFor":"Greenary",
+        "fascinatingFact":"Greenary on ountains",
+        "howToReach":" https://www.google.com/maps/place/Seven+Sisters+Hill,+Perjagadh/@20.5095625,79.5749988,17z/data=!3m1!4b1!4m5!3m4!1s0x3a2cba11352d8159:0x9cfded984f9e7bb6!8m2!3d20.5095625!4d79.5771875 "   
     }
 
 ]
