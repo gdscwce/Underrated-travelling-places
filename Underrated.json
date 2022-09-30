@@ -482,4 +482,15 @@
         "fascinatingFact":"Chapdoh Provides water to almost evry home in yavatmal",
         "howToReach":"https://www.google.com/maps?q=chadoh+dam+yavatmal&source=lmns&bih=984&biw=1920&hl=en&sa=X&ved=2ahUKEwjEjrjxmL36AhVUKbcAHQ6nD04Q_AUoAXoECAEQAQ"
     }
+
+{
+        "id":44,
+        "place":"Andaman Nicobar Islands ",
+        "country":"India",
+        "photo":"https://www.andamantourism.gov.in/",
+        "Language":["Hindi"],
+        "famousFor":"Group of islands,Underwater diving",
+        "fascinatingFact":"This is a beautiful and laid-back place in the south side of India which is known to be a home to a unique tribal group and also for different kinds of fishes.",
+        "howToReach":"https://www.yatra.com/india-tourism/andaman-island/how-to-reach#:~:text=Being%20an%20island%2C%20Andaman%20is,airlines%20offer%20their%20services%20here."
+    },
 ]
