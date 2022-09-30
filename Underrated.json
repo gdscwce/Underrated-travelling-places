@@ -75,5 +75,16 @@
         "howToReach":"https://www.thomascook.in/international-tourism/how-to-reach-madagascar"   
 
     },
+    {
+        "id":8,
+        "place":"Maharajabag",
+        "country":"india",
+        "photo":"https://www.royalorchidhotels.com/Images/ThingsToDO/30_20_2020_03_20_33Maharajbag-Zoo.jpg",
+        "Language":["marathi"],
+        "famousFor":"Views",
+        "fascinatingFact":"Most of Maharajabag’s wildlife is found nowhere else on Earth",
+        "howToReach":"https://www.earthtrip.in/nagpur/maharajbagh-zoo/how-to-reach-1354.php"   
+
+    },
         
 ]
