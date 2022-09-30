@@ -201,8 +201,7 @@
         "fascinatingFact":"temple at a huge height",
         "howToReach":"https://goo.gl/maps/bbNPsLPZJmtmr3SK9"
         },
-{
-
+    {
        "id":19,
         "place":"Bhilawadi Station",
         "country":"India",
@@ -350,7 +349,6 @@
         "Language":["English, Spanish"],
         "famousFor":"Award-winning restaurants,Cuyabeno Wildlife Reserve,powdery beaches,peak of Cotopaxi",
         "howToReach":"https://www.rome2rio.com/map/Quito-Airport-UIO/Cuyabeno-Wildlife-Reserve "
-
     },
 
     {
@@ -403,15 +401,15 @@
         "fascinatingFact":"",
         "howToReach":"https://maharashtraplanet.com/hill-stations-in-maharashtra/panhala/how-to-reach/"
     },
-    
-        {
-        "id":37,
-        "place":" agashiv hills ",
-        "country":"india",
-        "photo":"https://www.google.com/search?q=agashiv+hillskarad&tbm=isch&ved=2ahUKEwj20vqvhL36AhVjgGMGHXNzBUIQ2-cCegQIABAA&oq=agashiv+hillskarad&gs_lcp=CgNpbWcQAzIICAAQHhAIEAc6BAgjECc6BAgAEEM6CwgAEIAEELEDEIMBOgUIABCABDoGCAAQHhAHOgYIABAeEAg6BAgAEBhQyyFYjkVg3kZoAHAAeACAAagBiAGsE5IBBDAuMTeYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=ayY3Y7bxIeOAjuMP8-aVkAQ&bih=571&biw=1229&rlz=1C1FKPE_enIN974IN974"
-        "Language":["marathi
-        "famousFor":"nature and greenery
-        "fascinatingFact":"shivas temple at top of hill"
-        "howToReach":" https://goo.gl/maps/y1WEJ3CCAGSmGJsbA"
-        },
+     {
+            "id":37,
+        "place":"Dubai",
+        "country":"United Arab Emirates",
+        "photo":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8PDw8PDxAPDw8NDw8ODw8PDw8PDw8PFRUWFhUVFRUYHSggGBolGxUVITEhJSkrLy4uFx8zODMtNygtLisBCgoKDg0OGxAQGisdHx0tLS0tLS0tKy0tLS0tLy0tLSstLS0tLS0tLS0tLSstLS0tLS0tLSstLS0tLSstLS0tLf/AABEIASkAqgMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAAAQMEBQIGB//EAD4QAAEDAwEFAwoEBAYDAAAAAAEAAhEDEiEEBSIxQVEGE2EjMjNxcoGRobHBFEJz8FKy0eEVQ2KSorOTo8L/xAAZAQEAAwEBAAAAAAAAAAAAAAAAAQIDBAX/xAAlEQEBAAIBBAICAgMAAAAAAAAAAQIRAxIhMTITQSNxIpEzQlH/2gAMAwEAAhEDEQA/AKaSEL1HAEkJIBJNJAikmUkAkhCBFJdNaSQBkkgAdSeC5KJJJCSAQhJAJIQoSCuU0igRQhJBopIQpVJCEkAkhCJIpJlJAJIQgm0XpaX6lP8AmCrlXNlMu1Gnb/FXpN+LwFTd8Pqq/afoikhJWQRQhCBIQkoSEkIQJCCkg0UkIUoJIppIgJISRISTKSASQkg1OzNAv1umA5VqbzPRhuPyCz9X6Sp7b/qVd2I4iqSMEUqxBHEbjshUdUd9/tu+pWc97+lv9USSCkrqhIoQiSQgpEoBJCSAQgolBoJJpKUEUk0kAUkJIBJNJAkISQaewh5R55ChWn3ttHzIVDV+efGD8QCtPYXm1vUz6lZep873N/lCxl/Jf00s/hERXKZSK1ZhJCRQCSEIkJISQCEIQaCRQkVKoKSEIkkFCSASQkgEJIQbOwcNrno1n1KzNaIeR4D6L0PZTTh1DVui492WgROW2nHjvrA2k2Krxwg81z438tbWfjiqVyUyuSt2QlJCUoGkhJAIQkgESgpINAoQkpQCkgpIApIQgSUoKSAQEICJe27CjyNb2z4c6C892iAvaepfn/bzWxsuo6lo2lm6arK5JETuv4j/AGt+Cx+0Dp7o83NcT0mYx8Fx43839ujL/GxykUFcrrc4SQhAJIQgEJIQCEkINBJNJSgihCSASQkgRQhJAJhJW9k0g+vRa4S11VgI8CRKi3U2mR6nT0SNDp5Ge41LoxMGoSDHjI+KyO0GmIpaaofzCo34On7he3Om0jqTiXOAdRquD+BIlodAjHFeY7W6lg01DTze+k+o5lSIvonAJ8ZBB9XiuDjy3ybdWc/g8eVymUiu9ykkmUkAkhCASKaSASQhEtBCEipVCRTSQIpFNcoBJCSAVrZrorUiOVRn1CqqxoPS0/bb9VXLxVp5ez1lQihRjnQrgkcfOZj5fRed7QvllE8warfdLSPdk/Fbu0T5GiBM9zWGOPnt8Fk9paFrg0gBopB7YAEEtkxByMDj1XBx2TKV1ZTeLzhXKaRXoOQkk0IEkmhAkISQCEIRLQSTSUqkkmUigSSaSJJIplJAKbRekZ61Cp9F6Rs+P0Krl4qZ5er17vJ6bnuVDHD/ADOKqdqTv+vTtPr3D/VSarVMqCgxpEtY/iYad5zjEZ4A8vjypdo9W1zh+XyVNokW3SwZ8V50vd13w86kU0ivScZJJpIBJNJAIQhEkhNCC+kmhSq5STSQJIppFEkUk0igSm0rZe0dSoVtdmNEyrVaXzDXDGI/vxVOSyY1OM3WptKm2zSiItpugjBEvcI+BI96o9rGtLm4yKVLPQgNhWNXWu7kRhoe0AeFXiq3ac7zf0qfv3WZ/fVcGPl1Xw84hCF6TkJJNCBITSUASThEIEmiEQiV9JdFIqUOSkuiFyUQSRTQg5KS6XKBL0PZMw8e3w64Erz63ey/ndN/4YELLm9GnH7HUdmnGD5SfAd8FH2kyW8/JUvdutx++iVX/Lk48rnn6Yfv3rQ1vo34EjuBPCN0z7lxztXRXkE13WO8fdyA5dAuV6Eu5ty2aunKE0QiCRCcIhSEkukQg5hELuEoRK+QlC7hKEQjISIUhCUIIyEoXcJQiHEJQuyEoQcQtrs2d4DiS52P4sCQseFr7Ae4GAYBOevDpz96y5vVpx+yN7vRwM+VBHIeV/t8lf1UupPi4jyA3Wl07pxjgVjve9oZMPae+DQYJbvOgweHuV/X03PY8vdJBo9XRuHmVxd3SwX/AA4Y6JQuyScnJPNKF6GHrHLl5rmEQuoRCsq5hELqE4QcQiF3CIQcwiF3CIQXiFzCkhIhBGQlCkhBCCKEoUkJQiEZCUKSEoQRwtfZ7W0g1xkh7wzA4E4GOKzIWi6baWcd/TPzWHPe0jXindRquEU54Hvon23LR1RPdv8AXSBzHBnJZrzimZwe9I/8hV7VSab+WaYPOdxczdjjICcJsGAuoXdh6xy5ea4hELuEQrKuIRC7hO1BHCIUkJ2olHCIXcIhBetShS2pWolFCRCltRaiENqUKUtStQRQiFLalaiEUK04G2kZMd8wluOMqINUtRsNok4JqtMXMjHjMc+q5+e+G3F9qFQ4pzwsqRyI8qtWnN2c79MEDmLFlPBIZgncf5oujy3hK1WtNwktBFRgy4QRZziT8lzbjZlvJLnDMC2Jz1QGpU3Bz3wWnh5t3j1AU9q7eH1c/J7IrUWqW1Fq0ZorUWqW1O1EorUWqW1FqCK1FqmtRagulqVqnsStUbSgtStVi1KxNoV7UrVYsSLFIr2pWqxYixEK4ZKr1mbtEEukVW7sAOBx7uSu1ABEzBcBgkdeipvcS8gEmKzQCSTGJjK5ua7um/HOzOcxzRTIgXMqDMunynhwWs1pLsk3d4zBJg+T5ERCzq0RTno//sK1Y3oJLm963PCPJjosNRooaalFSpw/LgT48zxVuxRaNo7yrH+nOc8equWLs4vVz8nsgtTtU9iLFoogtRarFiLEEFqLFPYixEoLUWKexckjqPiEGhYlYrNiLFjtppVsSsVksT7oxMY4Sp6tI6VWxKxWrErFbqRpWsSsVmxFinqRpRrt832vsVmuBuPADvxy/wBIKuVXxqHhzoaG04EtGd7nCo1qzbn8T5Y4DhB3BHLouTPPdroxx1FWqcMxMXA/7wfutVoN2IjvW4OTPdrK7wOtGRAcev524Ww1zL848sJNwH+X6lntbSsahBpRIJLARGDLo+5WlYsyrWE0A2DmnOZg3DH0W5YunhvaseWd1exFis2LJ27rH0LCwtF10hwaQYiOJHyK0y5OmbUxx3dLtijr1GUxL3BoJAk9SY+6y6G3nQO8YI4XMJb/ADY/5Kntmp38OmacFscInkR6hx4cVn88vhf4rPL0liLFHseoalCm52XBtrj1c3BPviferli06tqaef27qXUzTa0xcCXeOWgfUrC7w9Vs9p2eVp+x/wDaxm0DAx81nl3rSdn0m1Fq6lErHrX6XFqp7WquGnrAHgGRjgS4AnHgtBZXaAxpq5z+QfDKpy5bi/Hjqu9j7Ra7T069QGpcCCN0EmS2TGOSNNqxIZV3XucWt6HgQ0n+KCJ5TwWZscBuz9OMZe//ALKhVPaIc5hpsdTY5xgE7stDicEeNnwHRR8llieiWVsaLVPqausHEGKNEzEcgB9StaxYGyHhurrXuZvUqTWm4Q4jiGz6lu19Q1gBJwTE5j5epX489YqZ4215zVOc3W1BjPdADqCG8/USo6xJc7kfxDh/6wVNtEscXVAQKzXNJzxAmPDAbyVHdcDUF1n4h9WSXA291Zw9ap1L6V61sNkjhPzatqlJcCDg1WGOnkgvO12S2kQRFrAZa/iDwPwlbWlex9QNY4Oh7HGxxjFMNPzUbNIq2ptfp2xl9SiB0i5oJ+a9VYvL6fQtq1KTiXg0d6HYAcHXDj7JWzs/aDjYyqIqO4ENdDhHHAIHA8xyWmHJpTLDa/YvIbeqSXGSN544kHGOo+69garRzHxC8Xtt0T+pUxDup5ZUcue9J48dbUKbecRiZgjn1tH8ylpk2EDg4tnp15fclU6L/Dl/DHLrYPqrdOqCI5yDnpkcZPh0Wcvdezs9L2ZHkSOlQ/QLWtXldBtunpqTr4i66ZwOAyeHFbFHbdI0+8cQBDnYN26C7MceDXH3HotpyRl0VR7SU/K0TytI/wCTVm0tG61uWcB+bwWltKsa9SmwOp2tduZAO8Guz1/sUm7OqgAXU8D+J/8ARUvPj93S3w5XxFp/aSgKjKU3PqiWBrqZk3Nbbg4O8D6lZ1e0nspOqCjVIbJyLQAOJceQC825mzr3gmmHDuy6e+bkVDTMz4iPhCvVO4fTe7TClWdTLQ+Ie5twxddnh1Wd3/1eZT7hUe1TzJLKZiGw1zpDxF4Pqn4x1Xe3dv0KlF1Olfc8yS9u5gQRPiMqFunBEuo0ZABksjzj9VxtPS90y40NPa14ANrhEtJ5HjhZ3a0yn0oaTX1adJ1InAG7OW0oJJgxzyPesHarzUsLHNMF88RndgSWCT8V6hlUkFwpAgZu7yuJz7az9TrQ2L6LDcXH0uoJPDJlynui5Rh6R72FrxDSwut8pY6pA/LHj9F6j/EQ6m2aj5tAIG+6RPTJ55VH/EGFo8jBh0APqOxPCCSMx88K9VY07zqAMg8atbhBj9+KneSNxSrawOLXsqGwRJiJFsZHOVVGoeTAJtNQHDHMbFwOcRK2WanTMbY7SMc4wDJukGTEnMKQ7V0IgfhGQSW2wIux/YJup7PRt7SaFtEsL3d43jFCs4ZJEghsEYOQvGVtQfxIewkMe3dcGu43QOUjgeK9M3TU7DU/BtLAALbaboETgHhx+SqHaWiDg06Zk28O5o4E/wBVG6dmTV13dhlvnO70y0BpJabYNxE5+ql0+05eC9jwCHETTpCW5Dsg54ha1XaOjBBdQZvSQTQpEWg+rxU9PbWnttYGt42t7gBvuACbqezymqqucAe8tDiHAQ10bwJNkwfNPwUW2u8a9tMNbqC8sIfTDSxwgEPjPG7kOIPFey/xzTQAbSSIg0WmTw4QrB25SpODO9YxznC0G1onAEGMckNx4anpnEegrSA6SaLqclp6nBkEZ5rqnRqwSylUdLQGkxDTJMGT18F7fV7VJADqtF7WgwJa63mevhyVWntRhk3tBJblrrZh0+HKFTpT1R5unsXU1A66kLSeBFwsmYIiOnHopdXsjXWuDaIqMuebbKT5BY5pBDiAMOjB5+9aGr1FZzmFmrqtBLw8NptcXj8oJcTEerKezqlUDOrqVc05c5jWGATc0AECDPQkdVbpNxHoKdVtYH8MabnGmAC6i0vtYGl2DOSCc9Tx516O0GUmtpPrb9Jopvkkm5ogyeZkLYG/N1N2C0g942b7SLvOziMHovN6ns3Qe973OeHPc5xANOJJkpcJfKZnrw8l3gcT3endlweWyXl0QQCQ0OcMAxK9r2C/Eh2omi2k19jzuxc43STc4nAhVNj+jb++a9d2c82p62/Rbzy4Mua26atOn1DZ8BCp7Y07X0SCB6QHpwa4LTaq20fRH2vsUyiJne7MOzQaFFrejSQee6efvWDrdmAkXYgx7yvYU/R0vZb9FlbU89vqH1cq2dzHK2d2NoNksNVwJxSIHrkFbNfTNIAA8D8FX2f6Sv7TfurxV5juHXZWNqtKJDzBIIDfeIVB2gYQDEPvPxGVq6ng322qoeLf1Kn0KrFrlYtO229tIMgGQDxnBn1LLpaWa01GgybRBg8J5of+X9Nqvajg32x/ImlpyW+UOmFJ9rXYtDouaMgzPJWWNplzHUy2IFxgYdBkfNZtPzqPs/cKTZvmN9Z+ymTdafS5+Bpl8mHCSYDSsjaZ3iLWhrHkNMgEZK36HErD2l5zv1H/AFU5Y6Vl8q9OvP5JJBzPXj8lJktiwxBiORMD6BUW+cPf9loabj++ipMZTK6SaKm4ndDhbk81e/AOc1xcXAzjHgpdDwPtBa44LSccZ/J2Y1J4aKZ5FzAcEGQyD+/FVKmjaXE3jJJ5rW2v5jP1D9Asd/E+srK42Xy1xylnh//Z",
+        "Language":["arabic"],
+        "famousFor":"The World's tallest building. A living wonder.",
+        "fascinatingFact":"Tallest building of world",
+        "howToReach":"https://goo.gl/maps/E9mM1ndSKQhoWfHU9"
+    }    
+
 ]
