@@ -179,6 +179,7 @@
         "fascinatingFact":"a huge crater lake renowned for its bright-blue color and surrounding forests",
         "howToReach":"https://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105054884937303084940.000484a2122598d1532db&ll=40.721242,141.031494&spn=0.291426,0.808868&z=10&output=embed"
     },
+    
         {
        "id":17 ,
         "place":"Naneghat",
@@ -189,9 +190,9 @@
         "fascinatingFact":"scenic views",
         "howToReach":"https://en.wikipedia.org/wiki/Naneghat"
     },
+    
      {
-       "id":18,
-
+       "id":18 ,
         "place":"Dandoba",
         "country":"India",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCg6kXWLzy_M&psig=AOvVaw0zD5RWsoVYMowOAt4LX7ia&ust=1664640966961000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjhi4T1vPoCFQAAAAAdAAAAABAD",
@@ -199,8 +200,7 @@
         "famousFor":"treking",
         "fascinatingFact":"temple at a huge height",
         "howToReach":"https://goo.gl/maps/bbNPsLPZJmtmr3SK9"
-    },
-
+        },
     {
        "id":19,
         "place":"Bhilawadi Station",
@@ -252,8 +252,6 @@
         "fascinatingFact":" Asia’s Only Naval Aviation Museum is at Goa",
         "howToReach":" https://www.google.com/maps/dir//Goa/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3bbfba106336b741:0xeaf887ff62f34092!3e0?sa=X&ved=2ahUKEwj8vaGmhL36AhXq-jgGHTHdDkAQ-A96BAhSEAw"
     },
-    
-
     {
         "id":23,
         "place":" El Nicho Waterfalls ",
@@ -300,7 +298,7 @@
     },
     
     {
-    "id"="27",
+    "id"=27,
     "place":"Paleshwar",
     "country":"India",
     "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNQq-jxB67PQ-YRj0o4oWlibGVMyGA2O0olDr8o%3Dw296-h202-n-k-no-v1&imgrefurl=https%3A%2F%2Fwww.google.co.in%2Ftravel%2Fentity%2Fkey%2FChoI4d6D5qfsrpqFARoNL2cvMTFydDFyZmp4chAE&tbnid=err3qpl24J71-M&vet=12ahUKEwikhrHchb36AhU2ObcAHSL0CJ0QMygBegUIARC5AQ..i&docid=AekT0t6z3pMTGM&w=296&h=202&q=paleshwar&ved=2ahUKEwikhrHchb36AhU2ObcAHSL0CJ0QMygBegUIARC5AQ",
@@ -344,8 +342,6 @@
 
 
     {
-
-
         "id":31,
         "place":" Ecuador ",
         "country":"Ecuador",
@@ -354,9 +350,18 @@
         "famousFor":"Award-winning restaurants,Cuyabeno Wildlife Reserve,powdery beaches,peak of Cotopaxi",
         "howToReach":"https://www.rome2rio.com/map/Quito-Airport-UIO/Cuyabeno-Wildlife-Reserve "
     },
-    
+
     {
         "id":32,
+        "place":" Lakshadweep",
+        "country":"India",
+        "photo":"https://www.holidify.com/images/bgImages/LAKSHADWEEP-ISLANDS.jpg",
+        "Language":["English", "Hindi","Tamil"],
+        "famousFor":"seashore",
+        "howToReach":"https://lakshadweep.gov.in/how-to-reach/#:~:text=Lakshadweep%20Island%20can%20be%20reached,Airlines%20operate%20flights%20from%20Kochi. "
+    },
+    {
+        "id":33,
         "place":" narsivhan temple ",
         "country":"india",
         "photo":"https://www.google.com/search?q=temple+halshi+vadikarad&tbm=isch&ved=2ahUKEwjM4qevhr36AhUkktgFHe_oAZUQ2-cCegQIABAA&oq=temple+halshi+vadikarad&gs_lcp=CgNpbWcQAzoECCMQJzoGCAAQHhAHOgYIABAeEAg6BAgAEBg6CwgAEIAEELEDEIMBOgUIABCABDoECAAQQzoICAAQHhAIEAc6BggAEAoQGDoGCAAQHhAFUOELWIdKYK9MaABwAHgAgAHBAYgB3xiSAQQwLjIxmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=gyg3Y4yVBKSk4t4P79GHqAk&bih=571&biw=1229&rlz=1C1FKPE_enIN974IN974"
@@ -366,7 +371,7 @@
         "howToReach":" https://goo.gl/maps/XSDPBx2hqwkApJZz8"
     },
     {
-        "id":33,
+        "id":34,
         "place":"Karjat hills",
         "country":"India",
         "photo":"https://www.hillstationboss.com/karjat/",
@@ -384,6 +389,25 @@
         "famousFor":" ancient Buddhist rock-cut architecture",
         "fascinatingFact":"The Ajanta Caves constitute ancient monasteries and worship-halls of different Buddhist traditions carved into a 75-metre (246 ft) wall of rock",
         "howToReach":" https://goo.gl/maps/ToYuLYSVXhgXhDZK8"
+    
+    {
+        "id":35,
+        "place":" Tarkarli ",
+        "country":"India",
+        "photo":"https://www.shutterstock.com/search/tarkarli-beach",
+        "Language":["English, Hindi, Marathi"],
+        "famousFor":"Known for its white sandy beach and water sports, Tarkarli is situated in the Sindhudurg district of Maharashtra. Tarkarli beach is arguably one of the most picturesque beaches in the Konkan region of Maharashtra.",
+        "fascinatingFact":"Tarkarli is a village in Malvan taluka in Sindhudurg district in the Indian state of Maharashtra. ",
+        "howToReach":"https://www.google.com/maps?q=fact+about+tarkarli+map&sxsrf=ALiCzsY2Fm6DnXeCKbg0gOA-AQftCxWOTg:1664560361112&uact=5&gs_lp=Egdnd3Mtd2l6uAED-AEBMgcQIRigARgKMgcQIRigARgKwgIKEAAYRxjWBBiwA8ICCBAAGB4YDRgFwgIFEAAYhgOQBghI0g1QzQVYswtwAXgByAEAkAEAmAGyAaAB4wSqAQMwLjTiAwQgQRgA4gMEIEYYAIgGAQ&um=1&ie=UTF-8&sa=X&ved=2ahUKEwju9frair36AhWBHXAKHVi_CysQ_AUoA3oECAEQBQ"
+    },
+    {
+            "id":36,
+        "place":" panhala ",
+        "country":"india",
+        "photo":"https://images.app.goo.gl/bWJHbY2MpkoUyP5T8",
+        "Language":["Marathi"],
+        "famousFor":"beautiful valleys, lush green valleys, rich tribal culture,beautiful fort",
+        "fascinatingFact":"",
+        "howToReach":"https://maharashtraplanet.com/hill-stations-in-maharashtra/panhala/how-to-reach/"
     }
-
 ]
