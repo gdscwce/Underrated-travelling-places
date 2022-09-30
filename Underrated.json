@@ -869,14 +869,25 @@
 
     },
 
-    {"id":54,
+    {
+	    "id":54,
         "place":"Sindhudurg Fort",
         "country":"India",
         "photo":"https://www.mtdc.co.in/forts/sindhudurg-fort/",
         "Language":["Marathi"],
         "famousFor":"Fort",
         "fascinatingFact":"Sindhudurga was built by Chhatrapati Shivaji Maharaj, the founder of the Maratha Empire. ",
-        "howToReach":"https://www.google.com/maps/search/sindhudurg+fort/@16.0423076,73.4572049,17z/data=!3m1!4b1?hl=en"   
+        "howToReach":"https://www.google.com/maps/search/sindhudurg+fort/@16.0423076,73.4572049,17z/data=!3m1!4b1?hl=en"  
+		},
+	{
+	    "id":55,
+        "place":"Konark Temple",
+        "country":"India",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Konarka_Temple.jpg/1200px-Konarka_Temple.jpg",
+        "Language":["Oriya"],
+        "famousFor":"Temple",
+        "fascinatingFact":"The wheel of chariot of Konark Sun Temple was made and established in such a way that it can tell you the time. ",
+        "howToReach":"https://www.yatra.com/india-tourism/konark/how-to-reach"   
 }
 
 ]
