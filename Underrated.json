@@ -919,7 +919,19 @@
         "famousFor":"Nature, Hiking, temples, culture",
         "fascinatingFact":"You will never get bored here",
         "howToReach":"https://www.bing.com/ck/a?!&&p=668089862aadede1JmltdHM9MTY2NDQ5NjAwMCZpZ3VpZD0zOGU0OTc2MS0xNDZjLTY1YmUtMWYwZS04NTQ3MTU5NDY0NDQmaW5zaWQ9NTE4Mw&ptn=3&hsh=3&fclid=38e49761-146c-65be-1f0e-854715946444&psq=how+to+reach+santoshwadi+miraj&u=a1aHR0cHM6Ly92aWxsYWdlaW5mby5pbi9tYWhhcmFzaHRyYS9zYW5nbGkvbWlyYWovc2FudG9zaHdhZGkuaHRtbA&ntb=1"
-    }
+
+    },
+{
+        "id":57,
+        "place":" Somnath ",
+        "country":"India", 
+        "photohttps://www.gettyimages.in/photos/somnath-temple"
+	"Language":["Marathi , Hindi, Gujarati"],
+        "famousFor":"Nature, temples, culture",
+        "fascinatingFact":"Will get a peace with beautiful sights of temple with ocean",
+        "howToReach":"https://www.yatra.com/india-tourism/somnath/how-to-reach"   }
+
+    },
         {
 		"id":301,
 
@@ -928,6 +940,7 @@
         "country":"India", 
 
          "photo" : "https://images.app.goo.gl/FRwbsnH4CV4meHGQ8",
+
 
         "Language": ["Hindi"],
 
