@@ -890,6 +890,7 @@
         "howToReach":"https://www.yatra.com/india-tourism/konark/how-to-reach"   
 },
 {
+
 		"id":56,
 		"place":"Salar de Uyuni",
 		"country":"Bolivia",
@@ -898,6 +899,16 @@
 		"famousFor":"Largest salt flat",
 		"fascinatingFact":"Salar de Uyuni, amid the Andes in southwest Bolivia, is the world’s largest salt flat. It’s the legacy of a prehistoric lake that went dry, leaving behind a desertlike, nearly 11,000-sq.-km. landscape of bright-white salt, rock formations and cacti-studded islands",
 		"howToReach":"https://www.salardeuyuni.com/how-to-get-to-salar-de-uyuni/"   
-	}
+	},
+  {
+        "id":56,
+        "place":" Santoshwadi ",
+        "country":"India", 
+        "photo":"https://www.bing.com/images/search?view=detailV2&ccid=iRlGRtJw&id=16B3C8501597D33CAF5C9D2AC16D4C08ACCDE31D&thid=OIP.iRlGRtJwID0rxl_qNf-0DQHaFx&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.89194646d270203d2bc65fea35ffb40d%3frik%3dHePNrAhMbcEqnQ%26riu%3dhttp%253a%252f%252fphotos.wikimapia.org%252fp%252f00%252f03%252f44%252f55%252f33_big.jpg%26ehk%3dyVL5E6Q0NdIU6Q08xjzfWxTLsrAV7V2OiYjjC%252bO855k%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=545&expw=700&q=santoshwadi+miraj+&simid=608024025075640158&FORM=IRPRST&ck=142AB217C9758C299D553F5F7FE9400F&selectedIndex=12 ",
+        "Language":["Marathi , Hindi, Kannada"],
+        "famousFor":"Nature, Hiking, temples, culture",
+        "fascinatingFact":"You will never get bored here",
+        "howToReach":"https://www.bing.com/ck/a?!&&p=668089862aadede1JmltdHM9MTY2NDQ5NjAwMCZpZ3VpZD0zOGU0OTc2MS0xNDZjLTY1YmUtMWYwZS04NTQ3MTU5NDY0NDQmaW5zaWQ9NTE4Mw&ptn=3&hsh=3&fclid=38e49761-146c-65be-1f0e-854715946444&psq=how+to+reach+santoshwadi+miraj&u=a1aHR0cHM6Ly92aWxsYWdlaW5mby5pbi9tYWhhcmFzaHRyYS9zYW5nbGkvbWlyYWovc2FudG9zaHdhZGkuaHRtbA&ntb=1"
+    }
 
 ]
