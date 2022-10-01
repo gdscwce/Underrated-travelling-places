@@ -890,6 +890,16 @@
         "howToReach":"https://www.yatra.com/india-tourism/konark/how-to-reach"   
 },
 {
+	    "id":56,
+        "place":"Gir Forest",
+        "country":"India",
+        "photo":"https://girbirdinglodge.com/sites/default/files/2022-01/wildlife_tour_packages_in_sasan_gir.jpg",
+        "Language":["Gujarati"],
+        "famousFor":"Sanctury",
+        "fascinatingFact":"Sasan Gir Provides Shelter to around 2,375 different wildlife species including Asiatic Lions.",
+        "howToReach":"https://www.girnationalpark.in/how-to-reach-gir.html"   
+},
+{
 
 		"id":56,
 		"place":"Salar de Uyuni",
@@ -910,5 +920,6 @@
         "fascinatingFact":"You will never get bored here",
         "howToReach":"https://www.bing.com/ck/a?!&&p=668089862aadede1JmltdHM9MTY2NDQ5NjAwMCZpZ3VpZD0zOGU0OTc2MS0xNDZjLTY1YmUtMWYwZS04NTQ3MTU5NDY0NDQmaW5zaWQ9NTE4Mw&ptn=3&hsh=3&fclid=38e49761-146c-65be-1f0e-854715946444&psq=how+to+reach+santoshwadi+miraj&u=a1aHR0cHM6Ly92aWxsYWdlaW5mby5pbi9tYWhhcmFzaHRyYS9zYW5nbGkvbWlyYWovc2FudG9zaHdhZGkuaHRtbA&ntb=1"
     }
+
 
 ]
