@@ -888,6 +888,16 @@
         "famousFor":"Temple",
         "fascinatingFact":"The wheel of chariot of Konark Sun Temple was made and established in such a way that it can tell you the time. ",
         "howToReach":"https://www.yatra.com/india-tourism/konark/how-to-reach"   
-}
+},
+{
+		"id":56,
+		"place":"Salar de Uyuni",
+		"country":"Bolivia",
+		"photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.natgeofe.com%2Fn%2F857a969e-9fe6-4b5e-959f-157ad9fdf7f9%2Freflection-salar-de-uyuni-bolivia_4x3.jpg&imgrefurl=https%3A%2F%2Fwww.nationalgeographic.com%2Ftravel%2Farticle%2Fhow-to-see-salar-de-uyuni-salt-flats-bolivia&tbnid=UNSzph6Al0NrsM&vet=12ahUKEwi_koefqL76AhWD_jgGHR1JDoUQMygCegUIARDtAQ..i&docid=ha2BpMeRFfbXbM&w=3072&h=2304&q=salar%20de%20uyuni&ved=2ahUKEwi_koefqL76AhWD_jgGHR1JDoUQMygCegUIARDtAQ",
+		"Language":["Aymara"],
+		"famousFor":"Largest salt flat",
+		"fascinatingFact":"Salar de Uyuni, amid the Andes in southwest Bolivia, is the world’s largest salt flat. It’s the legacy of a prehistoric lake that went dry, leaving behind a desertlike, nearly 11,000-sq.-km. landscape of bright-white salt, rock formations and cacti-studded islands",
+		"howToReach":"https://www.salardeuyuni.com/how-to-get-to-salar-de-uyuni/"   
+	}
 
 ]
