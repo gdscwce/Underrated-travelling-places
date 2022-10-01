@@ -888,6 +888,15 @@
         "famousFor":"Temple",
         "fascinatingFact":"The wheel of chariot of Konark Sun Temple was made and established in such a way that it can tell you the time. ",
         "howToReach":"https://www.yatra.com/india-tourism/konark/how-to-reach"   
+},{
+	    "id":56,
+        "place":"Gir Forest",
+        "country":"India",
+        "photo":"https://girbirdinglodge.com/sites/default/files/2022-01/wildlife_tour_packages_in_sasan_gir.jpg",
+        "Language":["Gujarati"],
+        "famousFor":"Sanctury",
+        "fascinatingFact":"Sasan Gir Provides Shelter to around 2,375 different wildlife species including Asiatic Lions.",
+        "howToReach":"https://www.girnationalpark.in/how-to-reach-gir.html"   
 }
 
 ]
