@@ -945,6 +945,18 @@
         "howToReach":"https://www.yatra.com/india-tourism/somnath/how-to-reach"   }
 
     },
+    
+    {
+        "id":60,
+        "place":"Panchgani",
+        "country":"India", 
+        "photohttps:https://www.tripadvisor.in/Attractions-g297653-Activities-Panchgani_Satara_District_Maharashtra.html"
+	"Language":["Marathi , Hindi"],
+        "famousFor":"Nature,Hill station, culture",
+        "fascinatingFact":"A Majestic hill station at an altitude of 4242 ft above the sea level, Panchgani is a famous destination for its natural beauty that entices the tourists from different parts of the world.",
+        "howToReach":"https://www.google.com/maps/place/Panchgani+-+Mahabaleshwar+Rd,+Maharashtra/@17.9209891,73.729661,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc265f394f045c9:0x9cb1236282eebbd3!8m2!3d17.9209891!4d73.729661	"   }
+
+    },
         {
 		"id":301,
 
