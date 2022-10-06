@@ -1010,4 +1010,14 @@
         "fascinatingFact":"1000 hectare plateau and declared bio-diversity site by UNESCO in June 2012",
         "howToReach":"https://goo.gl/maps/8BBoPDmp5kZJX85LA"
     },
+{
+        "id":65,
+        "place":"Tuvalu",
+        "country":"Tuvalu",
+        "photo":"https://cdn.britannica.com/80/183780-050-8E9791D7/World-Data-Locator-Map-Tuvalu.jpg",
+        "Language":["English"],
+        "famousFor":"Pristine Beaches",
+        "fascinatingFact":"Total area of this island nation is just 25.6 sq.km",
+        "howToReach":"https://www.onceinalifetimejourney.com/once-in-a-lifetime-journeys/pacific/tuvalu-travel-guide/"
+    },
 ]
