@@ -1010,4 +1010,15 @@
         "fascinatingFact":"1000 hectare plateau and declared bio-diversity site by UNESCO in June 2012",
         "howToReach":"https://goo.gl/maps/8BBoPDmp5kZJX85LA"
     },
+{
+        "id":64,
+        "place":"Lonar Crater",
+        "country":"India",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/3/3b/Lonar_Crater_Lake.jpg",
+        "Language":["Marathi, Hindi, English"],
+        "famousFor":"camping and outing",
+        "fascinatingFact":"The lake is located in the world's only high velocity impact formed in basaltic rock",
+        "howToReach":"https://trekraw.com/budget-travel-to-lonar-lake-from-mumbai/"
+    },
+
 ]
