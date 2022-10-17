@@ -1010,4 +1010,15 @@
         "fascinatingFact":"1000 hectare plateau and declared bio-diversity site by UNESCO in June 2012",
         "howToReach":"https://goo.gl/maps/8BBoPDmp5kZJX85LA"
     },
+{
+        "id":64,
+        "place":"Elephanta caves",
+        "country":"India",
+        "photo":" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwhc.unesco.org%2Fen%2Flist%2F244%2F&psig=AOvVaw0gKNIoyOZN43CsYxZjvvg5&ust=1664632762600000&source=images&cd=vfe&ved=2ahUKEwii2J611rz6AhWMHbcAHTMjAcAQr4kDegUIARDhAQ",
+        "Language":["marathi"],
+        "famousFor":"sculpture",
+        "fascinatingFact":"It has one of the most best sculptures",
+        "howToReach":"https://elephanta.co.in/how-to-reach-elephanta-caves"   
+       
+       },
 ]
