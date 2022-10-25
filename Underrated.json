@@ -318,14 +318,14 @@
     },
 
     {
-        "id":21,
+        "id":22,
         "place":" El Nicho Waterfalls ",
         "country":"Cuba",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_142578021_el-nicho-waterfalls-in-cuba-el-nicho-is-located-inside-the-gran-parque-natural-topes-de-collantes-a-.html&psig=AOvVaw0Yr9j-h99dp8L9OH7fAKSz&ust=1664642940732000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjQmKv8vPoCFQAAAAAdAAAAABAS",
         "Language":["English, Spanish"],
         "famousFor":"The waterfall is attractive and flows throughout the year, even during the dry season.",
-        "howToReach":"
-        },
+        "howToReach":""
+    },
     
     {
 
@@ -407,7 +407,7 @@
     },
 
     {
-    "id"=30,
+    "id":30,
     "place":"thoseghar",
     "country":"India",
     "photo":"https://www.google.com/search?q=thoseghar&sxsrf=ALiCzsZv0Csr0brDE6VrC_3Pd22JtfwdgA:1664562579088&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjnl-7pkr36AhUZ6zgGHQbmD4gQ_AUoAnoECAIQBA&biw=1536&bih=718&dpr=1.25",
@@ -872,7 +872,7 @@
 	"Language":["Marathi , Hindi, Gujarati"],
         "famousFor":"Nature, temples, culture",
         "fascinatingFact":"Will get a peace with beautiful sights of temple with ocean",
-        "howToReach":"https://www.yatra.com/india-tourism/somnath/how-to-reach"   }
+        "howToReach":"https://www.yatra.com/india-tourism/somnath/how-to-reach"
 
     },
     
@@ -884,7 +884,7 @@
 	"Language":["Marathi , Hindi"],
         "famousFor":"Nature,Hill station, culture",
         "fascinatingFact":"A Majestic hill station at an altitude of 4242 ft above the sea level, Panchgani is a famous destination for its natural beauty that entices the tourists from different parts of the world.",
-        "howToReach":"https://www.google.com/maps/place/Panchgani+-+Mahabaleshwar+Rd,+Maharashtra/@17.9209891,73.729661,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc265f394f045c9:0x9cb1236282eebbd3!8m2!3d17.9209891!4d73.729661	"   }
+        "howToReach":"https://www.google.com/maps/place/Panchgani+-+Mahabaleshwar+Rd,+Maharashtra/@17.9209891,73.729661,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc265f394f045c9:0x9cb1236282eebbd3!8m2!3d17.9209891!4d73.729661	"   
 
     },
         {
@@ -949,7 +949,8 @@
         "famousFor":"From the vibrant buildings that dot Bryggen, a historic harbor district and UNESCO World Heritage Site",
         "fascinatingFact":"An ideal destination for watersport fans, visitors can also go kayaking and rafting through Norway's famous fjords. ",
         "howToReach":"https://en.visitbergen.com/visitor-information/travel-information/getting-here#:~:text=In%20addition%20to%20a%20large,to%20and%20from%20the%20Continent."
-    }
+
+    },
 {
         "id":80,
         "place":"Munnar, Kerala",
@@ -959,7 +960,20 @@
         "famousFor":"Evergreen tea plantations, virgin forests, rolling hills,winding walkways, beautiful waterfalls, pleasant climate, fascinating climate, array of adventure activities,delicious foods,",
         "fascinatingFact":"Neelakurinchi orchids are found here which bloom once in every twelve years at this time the entire valley turns into beautiful violet color",
         "howToReach":"https://www.goibibo.com/destinations/munnar/how-to-reach-munnar/#:~:text=Nearest%20airport%20from%20Munnar%20is,well%20as%20many%20cities%20abroad."
-    }
+    
 
+
+
+    },
+{
+        "id":81,
+        "place":"Pondicherry",
+        "country":"India",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rock_beach_aerial_view.jpg/1599px-Rock_beach_aerial_view.jpg",
+        "Language":["Tamil, English, French"],
+        "famousFor":"Rock Beach, Auroville, White Town, Aurobindo Ashram",
+        "fascinatingFact":"There are number of statues established on the Promenade Beach, which fringes White Town. The most important statue here is that of Mahatama Gandhi. Hence, the beach is also called Mahatama Gandhi Beach.",
+        "howToReach":"https://goo.gl/maps/KLZpby9fYCkTZznm7"
+}
 
 ]
