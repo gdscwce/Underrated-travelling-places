@@ -975,5 +975,24 @@
         "fascinatingFact":"There are number of statues established on the Promenade Beach, which fringes White Town. The most important statue here is that of Mahatama Gandhi. Hence, the beach is also called Mahatama Gandhi Beach.",
         "howToReach":"https://goo.gl/maps/KLZpby9fYCkTZznm7"
 }
-
+{
+        "id":82,
+        "place":"Kanyakumari",
+        "country":"India",
+        "photo":"https://lh5.googleusercontent.com/p/AF1QipMLL1pJBLVMqFSoWv6K9ZwIe6mMbf45apCSx4MD=w408-h708-k-no",
+        "Language":["Tamil"],
+        "famousFor":"The meeting point of 3 major waterbodies",
+        "fascinatingFact":"It is the lowest part of the Indian mainland",
+        "howToReach":"https://goo.gl/maps/8Whw1FULruW25e546"
+}
+{
+        "id":83,
+        "place":"Mahaballipuram or Mamallapuram",
+        "country":"India",
+        "photo":"http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRSTG-xOB__BjZxv6Sdti2qy0nYx-EJ1ADRVkcTAJSBY6Q0cHrcRLkz1uG8iUeTTLqW",
+        "Language":["Tamil"],
+        "famousFor":"UNESCO World Heritage site and Chess Olympiad 2022",
+        "fascinatingFact":"Krishna's Butterball is a gigantic granite boulder(250 ton) resting on a short incline in the historical coastal resort town of Mamallapuram",
+        "howToReach":"https://goo.gl/maps/t7HUYfKfbR5JgFMp8"
+}
 ]
