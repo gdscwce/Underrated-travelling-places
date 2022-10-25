@@ -960,4 +960,24 @@
         "fascinatingFact":"There are number of statues established on the Promenade Beach, which fringes White Town. The most important statue here is that of Mahatama Gandhi. Hence, the beach is also called Mahatama Gandhi Beach.",
         "howToReach":"https://goo.gl/maps/KLZpby9fYCkTZznm7"
 }
+{
+       "id":82,
+        "place":"Mamallapuram or Mahabalipuram",
+        "country":"India",
+        "photo":"http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRSTG-xOB__BjZxv6Sdti2qy0nYx-EJ1ADRVkcTAJSBY6Q0cHrcRLkz1uG8iUeTTLqW",
+        "Language":["Tamil"],
+        "famousFor":"Ancient Temples and artifacts",
+        "fascinatingFact":"UNESCO World Heritage site",
+        "howToReach":"https://goo.gl/maps/ZnqC6YGjyUrYTFnh6"
+    },
+{
+       "id":83,
+        "place":"Kanyakumari",
+        "country":"India",
+        "photo":"",
+        "Language":["Tamil"],
+        "famousFor":"The meeting point of 3 water bodies",
+        "fascinatingFact":"The lowest district of Indian Mainland",
+        "howToReach":"https://goo.gl/maps/8Whw1FULruW25e546"
+    },
 ]
