@@ -318,14 +318,14 @@
     },
 
     {
-        "id":21,
+        "id":22,
         "place":" El Nicho Waterfalls ",
         "country":"Cuba",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_142578021_el-nicho-waterfalls-in-cuba-el-nicho-is-located-inside-the-gran-parque-natural-topes-de-collantes-a-.html&psig=AOvVaw0Yr9j-h99dp8L9OH7fAKSz&ust=1664642940732000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjQmKv8vPoCFQAAAAAdAAAAABAS",
         "Language":["English, Spanish"],
         "famousFor":"The waterfall is attractive and flows throughout the year, even during the dry season.",
         "howToReach":"
-        },
+    },
     
     {
 
@@ -407,7 +407,7 @@
     },
 
     {
-    "id"=30,
+    "id":30,
     "place":"thoseghar",
     "country":"India",
     "photo":"https://www.google.com/search?q=thoseghar&sxsrf=ALiCzsZv0Csr0brDE6VrC_3Pd22JtfwdgA:1664562579088&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjnl-7pkr36AhUZ6zgGHQbmD4gQ_AUoAnoECAIQBA&biw=1536&bih=718&dpr=1.25",
@@ -949,7 +949,7 @@
         "famousFor":"From the vibrant buildings that dot Bryggen, a historic harbor district and UNESCO World Heritage Site",
         "fascinatingFact":"An ideal destination for watersport fans, visitors can also go kayaking and rafting through Norway's famous fjords. ",
         "howToReach":"https://en.visitbergen.com/visitor-information/travel-information/getting-here#:~:text=In%20addition%20to%20a%20large,to%20and%20from%20the%20Continent."
-    }
+    },
 {
         "id":80,
         "place":"Pondicherry",
@@ -959,5 +959,5 @@
         "famousFor":"Rock Beach, Auroville, White Town, Aurobindo Ashram",
         "fascinatingFact":"There are number of statues established on the Promenade Beach, which fringes White Town. The most important statue here is that of Mahatama Gandhi. Hence, the beach is also called Mahatama Gandhi Beach.",
         "howToReach":"https://goo.gl/maps/KLZpby9fYCkTZznm7"
-
+}
 ]
