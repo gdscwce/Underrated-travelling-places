@@ -975,6 +975,7 @@
         "fascinatingFact":"There are number of statues established on the Promenade Beach, which fringes White Town. The most important statue here is that of Mahatama Gandhi. Hence, the beach is also called Mahatama Gandhi Beach.",
         "howToReach":"https://goo.gl/maps/KLZpby9fYCkTZznm7"
 }
+,
 {
         "id":82,
         "place":"Kanyakumari",
@@ -984,7 +985,7 @@
         "famousFor":"The meeting point of 3 major waterbodies",
         "fascinatingFact":"It is the lowest part of the Indian mainland",
         "howToReach":"https://goo.gl/maps/8Whw1FULruW25e546"
-}
+},
 {
         "id":83,
         "place":"Mahaballipuram or Mamallapuram",
@@ -995,4 +996,17 @@
         "fascinatingFact":"Krishna's Butterball is a gigantic granite boulder(250 ton) resting on a short incline in the historical coastal resort town of Mamallapuram",
         "howToReach":"https://goo.gl/maps/t7HUYfKfbR5JgFMp8"
 }
+
+,
+{
+        "id":84,
+        "place":"Kaas pathar",
+        "country":"India",
+        "photo":"https://assets.cntraveller.in/photos/60b9f6222d7743edc6392e64/master/pass/kaaslead.jpg",
+        "Language":["Marathi", "English"," Hindi"],
+        "famousFor":"Flowers,Lake",
+        "fascinatingFact":"It is a biodiversity hotspot known for various types of seasonal wild flowers bloom and numerous species of endemic butterflies annually in the months of August and September.[3] The plateau is situated at an altitude of 1200 metres and is approximately 10 square kilometers in area. Kaas has more than 850 different species of flowering plants. These include orchids, shrubs such as the Karvy, and carnivorous plants such as Drosera Indica. Kaas Pathar is a plateau made from volcanic rocks in the Satara district of Maharashtra, and comes under the biosphere of the Western Ghats. ",
+        "howToReach":"https://goo.gl/maps/BVsWCwtfgjPkK4wf7"
+}
+
 ]
