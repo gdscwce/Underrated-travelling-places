@@ -31,8 +31,6 @@
         "famousFor":"Muntains",
         "fascinatingFact":"Ht girls",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:"   
-
-        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-armenia:* "   
     },
 {
         "id":4,
@@ -531,7 +529,7 @@
         "id":42,
         "place":"Ellora Caves",
         "country":"india",
-        "photo":"https://en.wikipedia.org/wiki/Ellora_Caves#/media/File:Ellora_Caves,_India,_Kailasanatha_Temple_2.jpg"
+        "photo":"https://en.wikipedia.org/wiki/Ellora_Caves#/media/File:Ellora_Caves,_India,_Kailasanatha_Temple_2.jpg",
         "Language":["India"],
         "famousFor":" ancient Buddhist rock-cut architecture",
         "fascinatingFact":"The Ajanta Caves constitute ancient monasteries and worship-halls of different Buddhist traditions carved into a 75-metre (246 ft) wall of rock",
@@ -541,7 +539,7 @@
         "id":43,
         "place":" Dhumnapur ",
         "country":"india",
-        "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOkVXR1l7Cvt-4sIs25LVz5jGQoGi4AlLkyAPlE%3Ds1600-w400&imgrefurl=https%3A%2F%2Fyaharisnails.com%2Fen%2FIN%2Fshree-hanuman-mandir-dhumnapur-p1707010&tbnid=EUTJmp7LwjiFLM&vet=12ahUKEwikqJG1lr36AhUY7nMBHSCFDbUQMygCegQIARA1..i&docid=oT2WnX1d3DiXxM&w=400&h=300&q=dhumnapur&ved=2ahUKEwikqJG1lr36AhUY7nMBHSCFDbUQMygCegQIARA1"
+        "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOkVXR1l7Cvt-4sIs25LVz5jGQoGi4AlLkyAPlE%3Ds1600-w400&imgrefurl=https%3A%2F%2Fyaharisnails.com%2Fen%2FIN%2Fshree-hanuman-mandir-dhumnapur-p1707010&tbnid=EUTJmp7LwjiFLM&vet=12ahUKEwikqJG1lr36AhUY7nMBHSCFDbUQMygCegQIARA1..i&docid=oT2WnX1d3DiXxM&w=400&h=300&q=dhumnapur&ved=2ahUKEwikqJG1lr36AhUY7nMBHSCFDbUQMygCegQIARA1",
         "Language":["Marathi"],
         "famousFor":"Old temple",
         "fascinatingFact":"shivlinga",
@@ -608,7 +606,7 @@
     "Language":["Hindi"],
     "famousFor":"memory of Mumtaj",
     "fascinatingFact":"seventh wonder in world",
-    "howtoReach":"https://www.google.com/maps/place/Taj+Mahal/@27.1751448,78.0399535,17z/data=!3m1!4b1!4m5!3m4!1s0x39747121d702ff6d:0xdd2ae4803f767dde!8m2!3d27.1751448!4d78.0421422",
+    "howtoReach":"https://www.google.com/maps/place/Taj+Mahal/@27.1751448,78.0399535,17z/data=!3m1!4b1!4m5!3m4!1s0x39747121d702ff6d:0xdd2ae4803f767dde!8m2!3d27.1751448!4d78.0421422"
 },
 
 
@@ -868,7 +866,7 @@
         "id":73,
         "place":" Somnath ",
         "country":"India", 
-        "photohttps://www.gettyimages.in/photos/somnath-temple"
+        "photohttps":"//www.gettyimages.in/photos/somnath-temple",
 	"Language":["Marathi , Hindi, Gujarati"],
         "famousFor":"Nature, temples, culture",
         "fascinatingFact":"Will get a peace with beautiful sights of temple with ocean",
@@ -880,11 +878,11 @@
         "id":74,
         "place":"Panchgani",
         "country":"India", 
-        "photohttps:https://www.tripadvisor.in/Attractions-g297653-Activities-Panchgani_Satara_District_Maharashtra.html"
+        "photohttps":"https://www.tripadvisor.in/Attractions-g297653-Activities-Panchgani_Satara_District_Maharashtra.html",
 	"Language":["Marathi , Hindi"],
         "famousFor":"Nature,Hill station, culture",
         "fascinatingFact":"A Majestic hill station at an altitude of 4242 ft above the sea level, Panchgani is a famous destination for its natural beauty that entices the tourists from different parts of the world.",
-        "howToReach":"https://www.google.com/maps/place/Panchgani+-+Mahabaleshwar+Rd,+Maharashtra/@17.9209891,73.729661,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc265f394f045c9:0x9cb1236282eebbd3!8m2!3d17.9209891!4d73.729661	"   
+        "howToReach":"https://www.google.com/maps/place/Panchgani+-+Mahabaleshwar+Rd,+Maharashtra/@17.9209891,73.729661,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc265f394f045c9:0x9cb1236282eebbd3!8m2!3d17.9209891!4d73.729661"   
 
     },
         {
@@ -915,7 +913,7 @@
         "photo":"https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.kolhapurtourism.org%2Four-destination%2Fkhidrapur%2F&psig=AOvVaw3BQFmafpOnijSviAI9Nxre&ust=1664731499619000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDX5qLGv_oCFQAAAAAdAAAAABAD",
         "Language":["Marathi,Hindi"],
         "famousFor":"Kopeshwar temple",
-        "fascinatingFact":"Its beautiful stone sculptures"
+        "fascinatingFact":"Its beautiful stone sculptures",
         "howToReach":"https://www.triphobo.com/places/khidrapur-maharashtra-india/how-to-reach"
 
 
@@ -985,6 +983,16 @@
         "famousFor":"Flowers,Lake",
         "fascinatingFact":"It is a biodiversity hotspot known for various types of seasonal wild flowers bloom and numerous species of endemic butterflies annually in the months of August and September.[3] The plateau is situated at an altitude of 1200 metres and is approximately 10 square kilometers in area. Kaas has more than 850 different species of flowering plants. These include orchids, shrubs such as the Karvy, and carnivorous plants such as Drosera Indica. Kaas Pathar is a plateau made from volcanic rocks in the Satara district of Maharashtra, and comes under the biosphere of the Western Ghats. ",
         "howToReach":"https://goo.gl/maps/BVsWCwtfgjPkK4wf7"
+},
+{
+        "id":83,
+        "place":"Sundarbans",
+        "country":"India",
+        "photo":"https://static.toiimg.com/thumb/msid-86293134,width-1070,height-580,resizemode-75,imgsize-1253582,pt-32,y_pad-40/86293134.jpg",
+        "Language":["Bengali", "Hindi"],
+        "famousFor":"Sundarban National Park",
+        "fascinatingFact":"Sundarbans is a mangrove area in the delta formed by the confluence of the Padma, Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans the area from the Baleswar River in Bangladesh's division of Khulna to the Hooghly River in India's state of West Bengal.",
+        "howToReach":"https://goo.gl/maps/jYfQqFci1vRrd86s6"
 }
 
 ]
